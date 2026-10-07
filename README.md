@@ -1,3 +1,3 @@
-# OneXray organization profile
+# YuanDevTeam organization profile
 
-The public introduction for [OneXray](https://github.com/OneXray) lives in [profile/README.md](profile/README.md).
+The public introduction for [YuanDevTeam](https://github.com/YuanDevTeam) lives in [profile/README.md](profile/README.md).

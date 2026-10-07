@@ -1,15 +1,15 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/OneXray/OneXray/main/assets/logo.png" width="112" alt="OneXray logo">
+  <img src="https://raw.githubusercontent.com/YuanDevTeam/OneXray/main/assets/logo.png" width="112" alt="OneXray logo">
 </p>
 
-<h1 align="center">OneXray</h1>
+<h1 align="center">YuanDevTeam</h1>
 
 <p align="center">
   Your servers. Your routing. On every device.
 </p>
 
 <p align="center">
-  <a href="https://github.com/OneXray/OneXray#download">Download</a> ·
+  <a href="https://github.com/YuanDevTeam/OneXray#download">Download</a> ·
   <a href="https://onexray.com">Website &amp; documentation</a> ·
   <a href="https://t.me/OneXrayApp">Telegram channel</a>
 </p>
@@ -18,11 +18,11 @@ We build open-source software for cross-platform connections and traffic routing
 
 ## Our projects
 
-### [OneXray](https://github.com/OneXray/OneXray)
+### [OneXray](https://github.com/YuanDevTeam/OneXray)
 
 An Xray-core client for **iOS, macOS, Android, Windows, and Linux**. Manage your servers and subscriptions, connect with Smart Routing, or take control with Custom Routing and complete Raw JSON configurations. No account, ads, or analytics.
 
-### [Routing](https://github.com/OneXray/Routing)
+### [Routing](https://github.com/YuanDevTeam/Routing)
 
 Importable Custom Routing templates for OneXray. Review the rules, adapt them to your needs, and use them with your own servers. These are routing configurations, not server subscriptions.
 
@@ -32,8 +32,8 @@ OneXray is a client, not a VPN service provider. We do not provide VPN access, p
 
 ## Get involved
 
-- [Report a bug or suggest a feature](https://github.com/OneXray/OneXray/issues).
-- Contribute code or translations to [OneXray](https://github.com/OneXray/OneXray), or improve the [documentation](https://github.com/OneXray/onexray.com).
+- [Report a bug or suggest a feature](https://github.com/YuanDevTeam/OneXray/issues).
+- Contribute code or translations to [OneXray](https://github.com/YuanDevTeam/OneXray), or improve the [documentation](https://github.com/yiguodev/onexray.com).
 - Follow the [Telegram channel](https://t.me/OneXrayApp) for updates and announcements.
 
 Please keep passwords, private keys, and subscription credentials out of public issues and shared configurations.
