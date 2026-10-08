@@ -10,7 +10,6 @@
 
 <p align="center">
   <a href="https://github.com/YuanDevTeam/OneXray#download">Download</a> ·
-  <a href="https://onexray.com">Website &amp; documentation</a> ·
   <a href="https://t.me/OneXrayApp">Telegram channel</a>
 </p>
 
@@ -33,7 +32,7 @@ OneXray is a client, not a VPN service provider. We do not provide VPN access, p
 ## Get involved
 
 - [Report a bug or suggest a feature](https://github.com/YuanDevTeam/OneXray/issues).
-- Contribute code or translations to [OneXray](https://github.com/YuanDevTeam/OneXray), or improve the [documentation](https://github.com/yiguodev/onexray.com).
+- Contribute code or translations to [OneXray](https://github.com/YuanDevTeam/OneXray).
 - Follow the [Telegram channel](https://t.me/OneXrayApp) for updates and announcements.
 
 Please keep passwords, private keys, and subscription credentials out of public issues and shared configurations.
