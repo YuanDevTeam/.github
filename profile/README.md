@@ -10,7 +10,7 @@
 
 <p align="center">
   <a href="https://github.com/YuanDevTeam/OneXray#download">Download</a> ·
-  <a href="https://t.me/OneXrayApp">Telegram channel</a>
+  <a href="https://t.me/YuanDevTeam">Telegram channel</a>
 </p>
 
 We build open-source software for cross-platform connections and traffic routing.
@@ -33,6 +33,6 @@ OneXray is a client, not a VPN service provider. We do not provide VPN access, p
 
 - [Report a bug or suggest a feature](https://github.com/YuanDevTeam/OneXray/issues).
 - Contribute code or translations to [OneXray](https://github.com/YuanDevTeam/OneXray).
-- Follow the [Telegram channel](https://t.me/OneXrayApp) for updates and announcements.
+- Follow the [Telegram channel](https://t.me/YuanDevTeam) for updates and announcements.
 
 Please keep passwords, private keys, and subscription credentials out of public issues and shared configurations.
